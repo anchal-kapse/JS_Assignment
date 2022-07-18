@@ -37,10 +37,10 @@
             }
 
             if (count < 3) {
-                console.log("%d is a prime number.", x);
+                console.log(x," is a prime number.");
             }
 
             else {
-                console.log("%d is not a prime number.", x);
+                console.log(x,"is not a prime number.");
             }
         }
